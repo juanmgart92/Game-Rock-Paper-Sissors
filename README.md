@@ -29,6 +29,6 @@ This simple game is written in Python and allows you to play the iconic Rock, Pa
 ## Author 👨‍💻
 
 - **juanmgart92**
-<br>
-Have Fun! 🎮
+
+**Have Fun! 🎮**
 
