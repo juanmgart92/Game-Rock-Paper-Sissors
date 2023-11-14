@@ -29,7 +29,6 @@ This simple game is written in Python and allows you to play the iconic Rock, Pa
 ## Author 👨‍💻
 
 - **juanmgart92**
+<br>
+Have Fun! 🎮
 
-## Have Fun! 🎮
-
-Feel free to customize the README further based on your preferences and style. Adding visual elements, like emojis, can make your project more engaging and enjoyable for potential users.
